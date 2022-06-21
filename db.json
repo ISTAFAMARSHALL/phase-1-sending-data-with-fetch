@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,25 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "Luckyy",
+      "dogBreed": "Labadodool",
+      "id": 3
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 4
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 5
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +38,223 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": "undefined",
+      "email": "undefined",
+      "id": 1
+    },
+    {
+      "name": "blah",
+      "email": "blah.com",
+      "id": 2
+    },
+    {
+      "name": "blah",
+      "email": "blah.com",
+      "id": 3
+    },
+    {
+      "name": "blah",
+      "email": "blah.com",
+      "id": 4
+    },
+    {
+      "name": "blah",
+      "email": "blah.com",
+      "id": 5
+    },
+    {
+      "name": "blah",
+      "email": "blah.com",
+      "id": 6
+    },
+    {
+      "name": "blah",
+      "email": "blah.com",
+      "id": 7
+    },
+    {
+      "name": "blah",
+      "email": "blah.com",
+      "id": 8
+    },
+    {
+      "name": "blah",
+      "email": "blah.com",
+      "id": 9
+    },
+    {
+      "name": "blah",
+      "email": "blah.com",
+      "id": 10
+    },
+    {
+      "name": "blah",
+      "email": "blah.com",
+      "id": 11
+    },
+    {
+      "name": "blah",
+      "email": "blah.com",
+      "id": 12
+    },
+    {
+      "name": "blah",
+      "email": "blah.com",
+      "id": 13
+    },
+    {
+      "name": "blah",
+      "email": "blah.com",
+      "id": 14
+    },
+    {
+      "name": "blah",
+      "email": "blah.com",
+      "id": 15
+    },
+    {
+      "name": "blah",
+      "email": "blah.com",
+      "id": 16
+    },
+    {
+      "name": "blah",
+      "email": "blah.com",
+      "id": 17
+    },
+    {
+      "name": "blah",
+      "email": "blah.com",
+      "id": 18
+    },
+    {
+      "name": "blah",
+      "email": "blah.com",
+      "id": 19
+    },
+    {
+      "name": "blah",
+      "email": "blah.com",
+      "id": 20
+    },
+    {
+      "name": "blah",
+      "email": "blah.com",
+      "id": 21
+    },
+    {
+      "name": "blah",
+      "email": "blah.com",
+      "id": 22
+    },
+    {
+      "name": "blah",
+      "email": "blah.com",
+      "id": 23
+    },
+    {
+      "name": "blah",
+      "email": "blah.com",
+      "id": 24
+    },
+    {
+      "name": "blah",
+      "email": "blah.com",
+      "id": 25
+    },
+    {
+      "name": "blah",
+      "email": "blah.com",
+      "id": 26
+    },
+    {
+      "name": "blah",
+      "email": "blah.com",
+      "id": 27
+    },
+    {
+      "name": "blah",
+      "email": "blah.com",
+      "id": 28
+    },
+    {
+      "name": "blah",
+      "email": "blah.com",
+      "id": 29
+    },
+    {
+      "name": "blah",
+      "email": "blah.com",
+      "id": 30
+    },
+    {
+      "name": "blah",
+      "email": "blah.com",
+      "id": 31
+    },
+    {
+      "name": "blah",
+      "email": "blah.com",
+      "id": 32
+    },
+    {
+      "name": "blah",
+      "email": "blah.com",
+      "id": 33
+    },
+    {
+      "name": "blah",
+      "email": "blah.com",
+      "id": 34
+    },
+    {
+      "name": "blah",
+      "email": "blah.com",
+      "id": 35
+    },
+    {
+      "name": "blah",
+      "email": "blah.com",
+      "id": 36
+    },
+    {
+      "name": "blah",
+      "email": "blah.com",
+      "id": 37
+    },
+    {
+      "name": "blah",
+      "email": "blah.com",
+      "id": 38
+    },
+    {
+      "name": "blah",
+      "email": "blah.com",
+      "id": 39
+    },
+    {
+      "name": "blah",
+      "email": "blah.com",
+      "id": 40
+    },
+    {
+      "name": "blah",
+      "email": "blah.com",
+      "id": 41
+    },
+    {
+      "name": "blah",
+      "email": "blah.com",
+      "id": 42
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
